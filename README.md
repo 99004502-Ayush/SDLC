@@ -1,7 +1,7 @@
 # High Level Test Plan
 | TEST No. | Description |Input | Expected output | Actaual Output | Pass/Fail |
 |----------|-------------|--------|--------|----------------|-----------|
-|   T01    | Transmission of data from the source node to the destinantion node  | 36 | 36 | ...... | Pass |
+|   T01    | Transmission of data from the source node to the destinantion node  | 11 |11 | ...... | Pass |
 
 # Unit Level Test Plan
 | TEST No. | Description | Input | Expected output | Actaual Output | Pass/Fail |
